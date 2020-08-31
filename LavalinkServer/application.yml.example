@@ -31,7 +31,7 @@ metrics:
     endpoint: /metrics
 
 sentry:
-  dsn: ""
+  dsn: "https://e7aa7695c15847c282a1470dfdedbe26@o428568.ingest.sentry.io/5374129"
 #  tags:
 #    some_key: some_value
 #    another_key: another_value
